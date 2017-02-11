@@ -1,0 +1,11 @@
+footer p {
+  color: #808080;
+}
+
+footer a {
+  color: #808080;
+}
+
+footer a:hover, a:focus {
+  color: #333;
+}
